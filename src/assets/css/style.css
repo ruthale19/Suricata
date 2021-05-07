@@ -1,0 +1,49 @@
+body {
+  margin-top: 139px;
+  background-color: var(--white);
+  font-family: "Open Sans", sans-serif;
+}
+
+.imgNav {
+  width: 132px;
+}
+
+.nav-color {
+  background-color: var(--pink);
+}
+
+.text-color {
+  color: #707070;
+}
+
+.imgFooter {
+  width: 53.32px;
+}
+
+.card {
+  margin: 0 auto;
+}
+
+.icons-section {
+  background-color: var(--info);
+}
+
+.card-title {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.card-text {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.list-group-item,
+.card-link {
+  font-size: 11px;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 40px;
+}
